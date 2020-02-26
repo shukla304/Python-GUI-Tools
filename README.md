@@ -23,6 +23,7 @@ A basic python based tool which is used to take screenshot and check out the gal
 
 - Grid Spacing
 - Lack of Scrollbar
+- Lack of Exceptional Handling [Ex:Overwrite Images]
 - Tell me, if you notice!
 
 ###### Future Updates (May Take Long)
