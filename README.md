@@ -1,7 +1,8 @@
 # Screenshot/Gallery using Tkinter
 
 A basic python based tool which is used to take screenshot and check out the gallery in the present location [Beginners].
-![Screenshot](link-to-image)
+
+![](https://github.com/shukla304/Python-Screenshot-GUI/blob/master/ss12.png)
 
 ###### Requirements
 
